@@ -31,9 +31,6 @@ set shiftwidth=4
 set autoindent
 set cindent
 
-"显示行号
-set number
-
 "打开文件类型自动检测功能
 filetype on
  
